@@ -6,13 +6,13 @@ A client which doubles up as a server for other nodes to download file. It provi
 ● Search for a file to download 
 ● Share a file on central repository 
 
-To Run:
+# To Run:
 
 Compile: 
   
     g++ server.cpp -o server
     g++ client.cpp -o client
-
+    
 Execute:
 
     ./server <serverPort>
