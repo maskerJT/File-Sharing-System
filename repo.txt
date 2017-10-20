@@ -1,0 +1,7 @@
+a1.txt 10.1.131.47 /home/hp/programs/OS/hello/
+a2.pdf 10.1.131.47 /home/hp/programs/OS/hello/
+hii.mp4 10.1.131.47 /home/hp/programs/OS/hello/
+hello.mp4 10.1.131.47 /home/hp/programs/OS/hello/
+a1.txt 10.1.131.47 /home/hp/programs/OS/hello/
+t23.txt 127.0.0.1 /home/hp/programs/OS/hello/
+t23.txt 10.1.131.47 /home/hp/programs/OS/hello/
