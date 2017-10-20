@@ -1,13 +1,13 @@
-# FileSharingSystem
+## FileSharingSystem
+
+## To Run:
 
 Compile: 
-
-g++ server.cpp -o server
-
-g++ client.cpp -o client
+  
+    g++ server.cpp -o server
+    g++ client.cpp -o client
 
 Execute:
 
-./server <serverPort>
-  
-./client <serverIPAddress> <serverPort>
+    ./server <serverPort>
+    ./client <serverIPAddress> <serverPort>
