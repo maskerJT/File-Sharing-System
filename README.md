@@ -1,6 +1,6 @@
 ## FileSharingSystem
 
-## To Run:
+To Run:
 
 Compile: 
   
